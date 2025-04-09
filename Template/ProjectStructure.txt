@@ -1,0 +1,7 @@
+MyProject/
+├── CMakeLists.txt
+├── src/
+│   ├── main.cpp
+│   ├── MyClass.cpp
+│   └── MyClass.h
+└── build/   (generated when building)
