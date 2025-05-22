@@ -1,0 +1,14 @@
+
+$ install make utility and g++ (debian)
+sudo apt update
+sudo apt install build-essential
+
+# builds the project
+make
+
+# Runs the binary
+./bin/app
+
+# cleans the build files
+make clean
+
